@@ -1,0 +1,2 @@
+# DOKA-DONATIONS
+SEN 302 project
